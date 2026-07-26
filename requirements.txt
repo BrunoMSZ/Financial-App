@@ -8,3 +8,5 @@ extra-streamlit-components
 sqlalchemy
 bcrypt
 passlib[bcrypt]
+psycopg2-binary
+os

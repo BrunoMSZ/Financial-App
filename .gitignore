@@ -1,4 +1,6 @@
 __pycache__/
+*.pyc
 *.db
+*.sqlite
+*.sqlite3
 .env
-run.txt
