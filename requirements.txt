@@ -6,3 +6,5 @@ plotly
 requests
 extra-streamlit-components
 sqlalchemy
+bcrypt
+passlib[bcrypt]
