@@ -14,9 +14,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-API_URL = st.secrets.get(
-    "API_URL", os.getenv("API_URL", "http://127.0.0.1:8000")
-)
+API_URL = "https://financial-app-g2ja.onrender.com"
 
 CATEGORIES_MAP = {
     "Alimentação": [
